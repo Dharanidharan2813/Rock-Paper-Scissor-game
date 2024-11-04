@@ -1,9 +1,9 @@
 <H1>Rock-Paper-Scissor-game</H1>
 <h2>Using Python</h2>
 
-<p> It use an inbuid function random to assign the value to the System </p>
+<p> * It use an inbuid function random to assign the value to the System </p>
 
-<p> This also have the scoring board its is more fun to play</p>
+<p> * This also have the scoring board its is more fun to play</p>
 
 <h2> An Outout of the game </h2>
 
